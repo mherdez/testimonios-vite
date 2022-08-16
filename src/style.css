@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(24, 24, 50);
+  color: white;
+  font-family: 'SST', sans-serif;
+  text-align: center;
+}
+h1 {
+  font-size: 3rem;
+  margin: 40px 0 60px;
+}
+.card {
+  /* border: 1px dashed yellow; */
+  margin: 35px auto;
+  width: 70%;
+  display: flex;
+  background-color: rgb(39, 43, 71);
+}
+/* .card-foto {
+  border: 2px solid red;
+} */
+.card-foto img {
+  width: 280px;
+  height: 100%;
+}
+.card-info {
+  /* border: 2px solid orange; */
+  padding: 20px 40px;
+}
+.card-info p {
+  text-align: justify;
+}
